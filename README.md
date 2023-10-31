@@ -1,5 +1,5 @@
 # Newspaper-Scrape
-By Rohak Jain
+By Parvez Khan
 
 The official GitHub repository for the Newspaper Scrape Project, which uses advanced natural language processing techniques, sentiment analysis, and web scraping to extract summaries, metadata, and levels of polarity and subjectivity from articles on the New York Times' technology section.
 
