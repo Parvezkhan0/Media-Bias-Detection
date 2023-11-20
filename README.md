@@ -18,5 +18,6 @@ requests - Package Install: pip install requests
 
 bs4 (BeautifulSoup) - Package Install: pip install bs4
 
+
 # Thanks!
 Let me know of more updates you'd like to see and also if you encounter any bugs!
