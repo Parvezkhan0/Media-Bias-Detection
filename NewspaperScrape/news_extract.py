@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup as soup
 
 my_url = "https://www.nytimes.com/section/technology"
 
-
 # Method Purpose: This method extracts a content dictionary from an HTML outline of the NY Times Tech Section.
 # Parameter: The URL of the NY Times Tech Section.
 # Steps (How it Works):
